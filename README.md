@@ -49,7 +49,7 @@ mcdonalds_scraper/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sykuann/mcdonalds_scrape.git
+git clone https://github.com/sykuann/mcdonalds_scraper.git
 cd mcdonalds_scraper
 ```
 
